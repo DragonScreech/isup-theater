@@ -91,7 +91,7 @@ She's been doing that since 2022
     role: "Alarmist Girl",
   },
   "Maxwell Lindsey": {
-    desc: "Maxwell may be scatterbrained, overenthusiastic, and a little bit of a diva… He loved every second of the journey and he hopes you love every second of this production!!",
+    desc: "Maxwell may be scatterbrained, eccentric, and a little bit of a diva. He loved every second of the journey and he hopes you love every second of this production!!",
     image: "assets/Maxwell-Lindsey.JPG",
     role: "Director, Tyler"
   },
