@@ -149,6 +149,11 @@ She's been doing that since 2022
     image: "assets/Isabelle-Porter.png",
     role: "Misc.",
   },
+  "Oishani Banerjee": {
+    desc: "Oishani Banerjee has acted in iSchool High’s previous plays, but decided to retire from a life of fame to become a stagehand for this production. As a future engineering major, she can be seen getting ragebaited by physics and crying over math.",
+    image: "assets/Oishani-Banerjee.jpeg",
+    role: "Run"
+  }
 }
 
 const grid = document.querySelector(".cast-grid")
