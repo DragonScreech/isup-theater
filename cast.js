@@ -1,4 +1,14 @@
 const PEOPLE = {
+  "Maxwell Lindsey": {
+    desc: "Maxwell may be scatterbrained, eccentric, and a little bit of a diva. He loved every second of the journey and he hopes you love every second of this production!!",
+    image: "assets/Maxwell-Lindsey.JPG",
+    role: "Director"
+  },
+  "Megatron Aziz": {
+    desc: "Megatron has been in iSchool's drama club for four years now, and despite having no experience before it, has found a place within the crew and (to Megatron's surprise) the cast. Megatron has found joy in the process of being a part of these productions, and cherishes everyone met along the way.",
+    image: "assets/Zainab-Aziz.jpeg",
+    role: "Evil Advisor",
+  },
   "Cali Goodie": {
     desc: "Cali really enjoys theater, she has loved acting since she was little. She loved to be in the spotlight and where all her friends were. From the time she turned 10 she has been acting in as many plays as she could, but overall this one is her favorite one. She gets to be over-dramatic (her specialty) and make people laugh. Nothing could be better!",
     image: "assets/no-image-found.png",
@@ -89,16 +99,6 @@ She's been doing that since 2022
     desc: "Rose is fairly new to theatre but is enjoying her experience... so far. This is her first performance, and she is very excited!",
     image: "assets/Rose-Bielakowski.jpg",
     role: "Alarmist Girl",
-  },
-  "Maxwell Lindsey": {
-    desc: "Maxwell may be scatterbrained, eccentric, and a little bit of a diva. He loved every second of the journey and he hopes you love every second of this production!!",
-    image: "assets/Maxwell-Lindsey.JPG",
-    role: "Director, Tyler"
-  },
-  "Megatron Aziz": {
-    desc: "Megatron has been in iSchool's drama club for four years now, and despite having no experience before it, has found a place within the crew and (to Megatron's surprise) the cast. Megatron has found joy in the process of being a part of these productions, and cherishes everyone met along the way.",
-    image: "assets/Zainab-Aziz.jpeg",
-    role: "Evil Advisor (Administrator), Julie",
   },
   "Caroline Lindell": {
     desc: "No Description Yet!",
