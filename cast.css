@@ -51,8 +51,9 @@ body {
 .card-image {
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
-  -webkit-filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%); */
   filter: grayscale(100%);
+  transform: translateZ(0);
 }
 
 .person-modal {
@@ -109,8 +110,9 @@ body {
 
 .image-modal {
   width: 45%;
-  -webkit-filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%); */
   filter: grayscale(100%);
+  transform: translateZ(0);
 }
 
 .cast-note {
@@ -148,8 +150,9 @@ body {
 
   .mobile-image {
     width: 200px;
-    -webkit-filter: grayscale(100%);
+    /* -webkit-filter: grayscale(100%); */
     filter: grayscale(100%);
+    transform: translateZ(0);
     /* Applies a full grayscale filter */
 
     /* For older webkit browsers */
