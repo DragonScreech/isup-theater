@@ -36,9 +36,9 @@ const PEOPLE = {
     role: "Tina, Abbey"
   },
   "Michael Epounde": {
-    desc: "No Description Yet!",
+    desc: "Michael Epounde is originally from Whittier, Alaska and is in his twenty-fifth year as a member of the acting ensemble at iSchool.He is also a temporary professor for Lonestar's DRAM 1301 and academy classes. iSchool credits include: I Hate Shakespeare, The Alibis, Radium Girls, Complete Works of William Shakespeare Abridged, Revised, Again. However, Michael’s real home stage is Theatre Under The Stars in downtown Houston, where he has been a part of many major productions such as In The Heights, Dear Evan Hansen, Little Shop of Horrors, Waitress, Frozen (all last year!), and many more!! Unfortunately, he is very camera shy and cannot be seen in any photos or cast lists… Till now!!!",
     image: "assets/Michael-Epounde.jpeg",
-    role: "Stuffed Animal"
+    role: "Waiter, Stuffed Animal"
   },
   "Sophie Vandermeulen": {
     desc: "Sophie has always enjoyed acting! Even though she hates reading and memorizing things (stupid ADHD), she has a very bright and positive attitude towards her acting! She thinks that a Minecraft YouTuber (GoodTimesWithScar) says it best, “With the power of Dyslexia, I can do it!”",
@@ -52,7 +52,7 @@ const PEOPLE = {
   },
   "Declan Weis": {
     desc: "My name Declan. I like cheeseburgers",
-    image: "assets/no-image-found.png",
+    image: "assets/Declan-Weis2.png",
     role: "Manager"
   },
 
@@ -119,15 +119,19 @@ She's been doing that since 2022
     image: "assets/no-image-found.png",
     role: "Prop Master"
   },
+  "Madison Cole": {
+    desc: "No Description Yet!",
+    image: "assets/no-image-found.png",
+    role: "Assistant Prop Master",
+  },
+  "Madelaine Gonzalez": {
+    desc: "Madelaine Gonzalez, assistant to Genevieve and an occasional goof :)",
+    image: "assets/Madelaine-Gonzalez.jpg",
+    role: "Assisant Prop Master"
+  },
   "Oishani Banerjee": {
     desc: "Oishani Banerjee has acted in iSchool High’s previous plays, but decided to retire from a life of fame to become a stagehand for this production. As a future engineering major, she can be seen getting ragebaited by physics and crying over math.",
     image: "assets/Oishani-Banerjee.jpeg",
-    role: "Crew"
-  },
-
-  "Madlaine Gonzalez": {
-    desc: "Assistant to Genevieve and an occasional goof :)",
-    image: "assets/Madelaine-Gonzalez.jpg",
     role: "Crew"
   },
   "Grace Hameso": {
@@ -154,8 +158,7 @@ She's been doing that since 2022
     desc: "Ello im Sam. i like cats. Meow.",
     image: "assets/no-image-found.png",
     role: "Crew"
-  }
-
+  },
 }
 
 const grid = document.querySelector(".cast-grid")
