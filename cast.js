@@ -5,7 +5,7 @@ const PEOPLE = {
     role: "Director"
   },
   "Megatron Aziz": {
-    desc: "Megatron has been in iSchool's drama club for four years now, and despite having no experience before it, has found a place within the crew and (to Megatron's surprise) the cast. Megatron has found joy in the process of being a part of these productions, and cherishes everyone met along the way.",
+    desc: "Megatron has been in iSchool's drama club for four years now, and despite having no experience before it, has found a place within the Crew and (to Megatron's surprise) the cast. Megatron has found joy in the process of being a part of these productions, and cherishes everyone met along the way.",
     image: "assets/Zainab-Aziz.jpeg",
     role: "Evil Advisor",
   },
@@ -21,7 +21,7 @@ const PEOPLE = {
   },
 
   "Alexis Warmington": {
-    desc: "No Description Yet!",
+    desc: "Alexis has participated in numerous acting/theatrical activities, a prominent one being competing in a Destination Imagination Improv Competition. Theatre is very fun and she looks forward to this play and other future performance opportunities.",
     image: "assets/no-image-found.png",
     role: "Eve"
   },
@@ -35,6 +35,11 @@ const PEOPLE = {
     image: "assets/Ingrid-James.jpeg",
     role: "Tina, Abbey"
   },
+  "Michael Epounde": {
+    desc: "No Description Yet!",
+    image: "assets/Michael-Epounde.jpeg",
+    role: "Stuffed Animal"
+  },
   "Sophie Vandermeulen": {
     desc: "Sophie has always enjoyed acting! Even though she hates reading and memorizing things (stupid ADHD), she has a very bright and positive attitude towards her acting! She thinks that a Minecraft YouTuber (GoodTimesWithScar) says it best, “With the power of Dyslexia, I can do it!”",
     image: "assets/Sophie-Vandermeulen.jpeg",
@@ -46,14 +51,14 @@ const PEOPLE = {
     role: "Carol, Mandy"
   },
   "Declan Weis": {
-    desc: "No Description Yet!",
+    desc: "My name Declan. I like cheeseburgers",
     image: "assets/no-image-found.png",
     role: "Manager"
   },
 
   "Salem Scherer": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
+    desc: "I am Ug (Salem), and I like bugs (Sandwiches)! I sleep on my rug (bed), I have a pet pug (pug), I'm also the stage manager 🥶",
+    image: "assets/Salem-Scherer.jpg",
     role: "Stage Manager, Ug"
   },
 
@@ -61,12 +66,6 @@ const PEOPLE = {
     desc: "No Description Yet!",
     image: "assets/no-image-found.png",
     role: "Rah, Jessica"
-  },
-
-  "Michael Epounde": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
-    role: "Stuffed Animal"
   },
   "Joanna Mercado": {
     desc: `Eat\n
@@ -81,8 +80,8 @@ She's been doing that since 2022
     role: "Shelly"
   },
   "Jackson Vandermeulen": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
+    desc: "When Jackson was just a lad the dinosaurs came and destroyed his home, he then swore revenge on them all and annihilated them. After the destruction of the dinosaurs Jackson joined a traveling theatre troupe that went around and reenacted Jackson’s heroic acts. After many millennia Jackson found his way to Texas where he then invented the toaster and sliced bread. This only made his popularity soar. Afterwards he decided it was high time to go to high school. He found the one and only ISchool High at University Park. Once he was there he would tell tales of his past exploits and everyone wanted him to join theatre so that he could give them even more light on what had happened. Reluctantly Jackson eventually joined the club and now he directs the costumes to put on a wonderful show that everyone can enjoy.",
+    image: "assets/Jackson-Vandermeulen.jpeg",
     role: "Abraham Lincoln, Chesterfield"
   },
   "Drik Banerjee": {
@@ -111,49 +110,52 @@ She's been doing that since 2022
     role: "Lights",
   },
   "Jaden Macias": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
-    role: "crew"
+    desc: "I do Sound👍",
+    image: "assets/Jaden-Macias.jpg",
+    role: "Sound"
   },
-
-  "Aalimah Hayes": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
-    role: "crew"
-  },
-
-  "Grace Hameso": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
-    role: "crew"
-  },
-
   "Geniveve Dykes": {
     desc: "No Description Yet!",
     image: "assets/no-image-found.png",
-    role: "crew"
-  },
-
-  "Madlaine Gonzalez": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
-    role: "crew"
-  },
-  "Remy Tobias": {
-    desc: "Remy has very little knowledge on how anything in theater works but he likes to go along for the ride. Unfortunately, he wasn't able to help much this year due to schedule conflicts, but on Connor's life he WILL be so much help next year trust me on this.",
-    image: "assets/Remy-Tobias.jpg",
-    role: "Run",
-  },
-  "Isabelle Porter": {
-    desc: "Isabelle is a Freshman at iSchool, and about 1/4 of a theater kid. She has loved supporting the cast and crew this year as well as helping out with costumes, and when she's not at theatre club or in college, she can be found in livestock barns across the state of Texas! She would like to thank Mrs. Lindell for being an amazing director and Caroline Lindell for roping her into this and for all the memories they have created along the way!",
-    image: "assets/Isabelle-Porter.png",
-    role: "Misc.",
+    role: "Prop Master"
   },
   "Oishani Banerjee": {
     desc: "Oishani Banerjee has acted in iSchool High’s previous plays, but decided to retire from a life of fame to become a stagehand for this production. As a future engineering major, she can be seen getting ragebaited by physics and crying over math.",
     image: "assets/Oishani-Banerjee.jpeg",
-    role: "Run"
+    role: "Crew"
+  },
+
+  "Madlaine Gonzalez": {
+    desc: "Assistant to Genevieve and an occasional goof :)",
+    image: "assets/Madelaine-Gonzalez.jpg",
+    role: "Crew"
+  },
+  "Grace Hameso": {
+    desc: "No Description Yet!",
+    image: "assets/no-image-found.png",
+    role: "Crew"
+  },
+  "Aalimah Hayes": {
+    desc: "Aalimah Hayes, who is a part of the crew as well as an extra, is extremely proud to be a part of the Nine Worst Breakups of All Time production. She is a junior here at iSchool High, and when she isn't *horsing around,* you can find her tracking down CD's for her music collection. Love and thanks to family, friends, and the Theater Club.",
+    image: "assets/Aalimah-Hayes.jpg",
+    role: "Crew"
+  },
+  "Isabelle Porter": {
+    desc: "Isabelle is a Freshman at iSchool, and about 1/4 of a theater kid. She has loved supporting the cast and Crew this year as well as helping out with costumes, and when she's not at theatre club or in college, she can be found in livestock barns across the state of Texas! She would like to thank Mrs. Lindell for being an amazing director and Caroline Lindell for roping her into this and for all the memories they have created along the way!",
+    image: "assets/Isabelle-Porter.png",
+    role: "Crew",
+  },
+  "Remy Tobias": {
+    desc: "Remy has very little knowledge on how anything in theater works but he likes to go along for the ride. Unfortunately, he wasn't able to help much this year due to schedule conflicts, but on Connor's life he WILL be so much help next year trust me on this.",
+    image: "assets/Remy-Tobias.jpg",
+    role: "Crew",
+  },
+  "Sam Richesin": {
+    desc: "Ello im Sam. i like cats. Meow.",
+    image: "assets/no-image-found.png",
+    role: "Crew"
   }
+
 }
 
 const grid = document.querySelector(".cast-grid")
