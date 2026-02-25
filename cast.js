@@ -85,7 +85,7 @@ She's been doing that since 2022
     role: "Abraham Lincoln, Chesterfield"
   },
   "Drik Banerjee": {
-    desc: "Drik Banerjee is a coder, violin player, and—very recently—an actor!",
+    desc: "Drik Banerjee is a coder, violin player, and—very recently—an actor! He'd like to give recognition to coding club for making this amazing website!",
     image: "assets/Drik-Banerjee.jpeg",
     role: "Adam"
   },
