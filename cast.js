@@ -26,8 +26,8 @@ const PEOPLE = {
     role: "Eve"
   },
   "Oliver Warmington": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
+    desc: "Theatrical actor and programmer at heart. 2nd - year in high school; senior graduate! ∗⸜(ᴖ ᴖ)/* Loves: Language, puzzles, graphic design, procrastination; Dislikes: Memorization, tediousness, procrastination ╥﹏╥",
+    image: "assets/Oliver-Warmington.jpg",
     role: "Teddy, Tony"
   },
   "Ingrid James": {
@@ -63,7 +63,7 @@ const PEOPLE = {
   },
 
   "Penelope Glassman": {
-    desc: "No Description Yet!",
+    desc: "Penelope is a bona fide theater kid, acting in their first play at the ripe old age of 4 (it was Annie, naturally). This is definitely their favorite theater community thus far, and they're ecstatic to be performing. Enjoy the show, and remember to laugh!",
     image: "assets/no-image-found.png",
     role: "Rah, Jessica"
   },
@@ -115,8 +115,8 @@ She's been doing that since 2022
     role: "Sound"
   },
   "Geniveve Dykes": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
+    desc: "Eevee Dykes is the prop master who brings and designs the props, she also designed the ads for this play (check them out) ;)",
+    image: "assets/Genevieve-Dykes.jpeg",
     role: "Prop Master"
   },
   "Madison Cole": {
@@ -135,8 +135,8 @@ She's been doing that since 2022
     role: "Crew"
   },
   "Grace Hameso": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
+    desc: " I, grace, just discovered evil. This is bad",
+    image: "assets/Grace-Hameso.jpeg",
     role: "Crew"
   },
   "Aalimah Hayes": {
