@@ -26,7 +26,7 @@ const PEOPLE = {
     role: "Eve"
   },
   "Oliver Warmington": {
-    desc: "Theatrical actor and programmer at heart. 2nd - year in high school; senior graduate! ∗⸜(ᴖ ᴖ)/* Loves: Language, puzzles, graphic design, procrastination; Dislikes: Memorization, tediousness, procrastination ╥﹏╥",
+    desc: "Theatrical actor and programmer at heart. 2nd-year in high school; senior graduate! ∗⸜(ᴖ ᴖ)/* Loves: Language, puzzles, graphic design, procrastination; Dislikes: Memorization, tediousness, procrastination ╥﹏╥",
     image: "assets/Oliver-Warmington.jpg",
     role: "Teddy, Tony"
   },
