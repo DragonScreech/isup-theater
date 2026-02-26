@@ -22,7 +22,7 @@ const PEOPLE = {
 
   "Alexis Warmington": {
     desc: "Alexis has participated in numerous acting/theatrical activities, a prominent one being competing in a Destination Imagination Improv Competition. Theatre is very fun and she looks forward to this play and other future performance opportunities.",
-    image: "assets/no-image-found.png",
+    image: "assets/Alexis-Warmington.jpeg",
     role: "Eve"
   },
   "Oliver Warmington": {
@@ -64,7 +64,7 @@ const PEOPLE = {
 
   "Penelope Glassman": {
     desc: "Penelope is a bona fide theater kid, acting in their first play at the ripe old age of 4 (it was Annie, naturally). This is definitely their favorite theater community thus far, and they're ecstatic to be performing. Enjoy the show, and remember to laugh!",
-    image: "assets/no-image-found.png",
+    image: "assets/Penelope-Glassman.jpeg",
     role: "Rah, Jessica"
   },
   "Joanna Mercado": {
@@ -101,7 +101,7 @@ She's been doing that since 2022
   },
   "Caroline Lindell": {
     desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
+    image: "assets/Caroline-Lindell.jpg",
     role: "Guy"
   },
   "Connor Lindsey": {
@@ -159,6 +159,11 @@ She's been doing that since 2022
     image: "assets/no-image-found.png",
     role: "Crew"
   },
+  "Ember Scherer": {
+    desc: "No Description Yet!",
+    role: "Crew",
+    image: "assets/Ember-Scherer.jpg"
+  }
 }
 
 const grid = document.querySelector(".cast-grid")
