@@ -53,7 +53,7 @@ const PEOPLE = {
   "Declan Weis": {
     desc: "My name Declan. I like cheeseburgers",
     image: "assets/Declan-Weis2.png",
-    role: "Manager"
+    role: "Manager, Friend"
   },
 
   "Salem Scherer": {
@@ -89,11 +89,6 @@ She's been doing that since 2022
     image: "assets/Drik-Banerjee.jpeg",
     role: "Adam"
   },
-  "Sofia Tijerina": {
-    desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
-    role: "Friend"
-  },
   "Rose Bielakowski": {
     desc: "Rose is fairly new to theatre but is enjoying her experience... so far. This is her first performance, and she is very excited!",
     image: "assets/Rose-Bielakowski.jpg",
@@ -121,7 +116,7 @@ She's been doing that since 2022
   },
   "Madison Cole": {
     desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
+    image: "assets/Madison-Cole.jpeg",
     role: "Assistant Prop Master",
   },
   "Madelaine Gonzalez": {
