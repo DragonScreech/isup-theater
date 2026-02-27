@@ -11,12 +11,12 @@ const PEOPLE = {
   },
   "Cali Goodie": {
     desc: "Cali really enjoys theater, she has loved acting since she was little. She loved to be in the spotlight and where all her friends were. From the time she turned 10 she has been acting in as many plays as she could, but overall this one is her favorite one. She gets to be over-dramatic (her specialty) and make people laugh. Nothing could be better!",
-    image: "assets/no-image-found.png",
+    image: "assets/Cali-Goodie.jpg",
     role: "Katie"
   },
   "Garrett Brown": {
     desc: "No Description Yet!",
-    image: "assets/no-image-found.png",
+    image: "assets/Garrett-Brown.jpg",
     role: "Billy, Charlie"
   },
 
