@@ -158,7 +158,13 @@ She's been doing that since 2022
     desc: "Hi, Ember is you, I am you. I am NOT going to slime you out.",
     role: "Crew",
     image: "assets/Ember-Scherer.jpg"
+  },
+  "Iggy Desimone": {
+    desc: "Socially awkward guitarist and crew member",
+    role: "Crew",
+    image: "assets/Iggy-Desimone.jpg"
   }
+    
 }
 
 const grid = document.querySelector(".cast-grid")
