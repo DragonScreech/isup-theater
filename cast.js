@@ -151,7 +151,7 @@ She's been doing that since 2022
   },
   "Sam Richesin": {
     desc: "Ello im Sam. i like cats. Meow.",
-    image: "assets/no-image-found.png",
+    image: "assets/Sam-Richesin.jpg",
     role: "Crew"
   },
   "Ember Scherer": {
