@@ -15,7 +15,7 @@ const PEOPLE = {
     role: "Katie"
   },
   "Garrett Brown": {
-    desc: "No Description Yet!",
+    desc: "Garrett is excited to be in this play and it is his first every play. He thanks his castmates for the laughs and his director for the patience.",
     image: "assets/Garrett-Brown.jpg",
     role: "Billy, Charlie"
   },
@@ -95,7 +95,8 @@ She's been doing that since 2022
     role: "Alarmist Girl",
   },
   "Caroline Lindell": {
-    desc: "No Description Yet!",
+    desc: "Though this is Caroline's first production with iSchool Theater,  she has participated in numerous public speaking/improv classes through scouts. She enjoys being in theater and is excited to experience her first time performing.
+",
     image: "assets/Caroline-Lindell.jpg",
     role: "Guy"
   },
@@ -115,7 +116,7 @@ She's been doing that since 2022
     role: "Prop Master"
   },
   "Madison Cole": {
-    desc: "No Description Yet!",
+    desc: "Madison has been in theater for 5 years and specializes in stage crew and props. She loves to express herself creatively and live in the moment with her friends. She would like to thank her dad for encouraging and supporting her.",
     image: "assets/Madison-Cole.jpeg",
     role: "Assistant Prop Master",
   },
@@ -155,7 +156,7 @@ She's been doing that since 2022
     role: "Crew"
   },
   "Ember Scherer": {
-    desc: "No Description Yet!",
+    desc: "Hi, Ember is you, I am you. I am NOT going to slime you out.",
     role: "Crew",
     image: "assets/Ember-Scherer.jpg"
   }
