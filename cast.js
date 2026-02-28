@@ -95,8 +95,7 @@ She's been doing that since 2022
     role: "Alarmist Girl",
   },
   "Caroline Lindell": {
-    desc: "Though this is Caroline's first production with iSchool Theater,  she has participated in numerous public speaking/improv classes through scouts. She enjoys being in theater and is excited to experience her first time performing.
-",
+    desc: "Though this is Caroline's first production with iSchool Theater,  she has participated in numerous public speaking/improv classes through scouts. She enjoys being in theater and is excited to experience her first time performing.",
     image: "assets/Caroline-Lindell.jpg",
     role: "Guy"
   },
